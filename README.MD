@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Araujo</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento web, mas recentemente também estou aprendendo devops (kubernets, containers e podman). Sou bom no desenvolvimento de aplicações web, mas esse não é o meu limite. Também conheci o desenvolvimento de aplicativos android e o desenvolvimento de aplicativos móveis híbridos. Comecei minha carreira em php e angularjs enquanto estudava na universidade. Mas então mudei para backend(nodejs e dotnet) e encontrei minha paixão. Eu posso aprender tecnologia mais rápido e esse é um dos meus pontos fortes. Hoje passo uma boa parte do dia melhorando meu Javascript na sua essência e me aperfeiçoando em ferramentas , packages e frameworks (Electron.js, webpack, 0x) Eu tenho alguns hobbies. Mas o forte está especialmente no mar. Eu sou capaz de fazer o meu trabalho para a sua melhor exigência. Além disso, minha palavra não pode justificar a ação até que eu tenha a oportunidade certa de atuar.</h3>
+<h3 align="center">Sou apaixonado por desenvolvimento web.</h3>
 
 - 🔭 I’m currently working on **Financiamento Automotivo**
 
