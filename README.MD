@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Araujo</h1>
 
-- 🔭 I’m currently working on **Financiamento Automotivo**
+- 🔭 I’m currently working on **Automotive Financing**
 
 - 🌱 I’m currently learning **Mocha, Nextjs, Openshift, kubernets**
 
