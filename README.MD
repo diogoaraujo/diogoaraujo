@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Diogo Araujo</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento web.</h3>
 
 - 🔭 I’m currently working on **Financiamento Automotivo**
 
